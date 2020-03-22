@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/frontendbr/brand/f33a3aa9/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
 </p>
 <h1 align="center">Fórum</h1>
-<p align="center">:beer: Portando discussões feitas em grupos para issues.</p>
+<p align="center">Portando discussões feitas em grupos para issues.</p>
 
 > **Disclaimer:** _As opiniões aqui publicadas são de inteira responsabilidade de seus autores e não refletem, necessariamente, o posicionamento da organização._
 
@@ -13,20 +13,16 @@ _____
 </p>
 
 _____
-
 ## Propósito
 
-Uma [conversa no Twitter](https://twitter.com/felipefialho_/status/693111161856921600) foi o gatilho que precisávamos.
+O projeto foi criado para usar a tecnologia e aproveitar de seus recursos, assim amenizando as consequencias da pandemia.
 
-<img width="650" alt="Começo do Front-end BR" src="https://user-images.githubusercontent.com/3603793/58209958-7a5c2380-7cbe-11e9-8c7b-b1889eea9fe2.png">
+## Objetivos
 
-Alguns posts em grupos de front-end em redes sociais geram debates legais que poderiam ser disponibilizados em local melhor estruturado para tal. A busca do Facebook em grupos, por exemplo, tem vários problemas. Discussões épicas foram perdidas, e pessoas que ingressam agora nos grupos não tem mais acesso a esses posts.
+* Reudizir superlotação das emergências do país.
+* Garantiruma assistencia médica e orientações para pessoas com suspeita da doença .
+* Mapear casos suspeitos com dados coletaos e disponibilizar as autoridades de saúde para que ela possam agir com mais agilidade e eficieêcia.
 
-A ideia desse repositório é portar ou iniciar essas discussões nas issues. Estando no GitHub, fica mais fácil procurar respostas a perguntas já respondidas por esses grupos.
-
-O objetivo é unificar todas as discussões em um só local, e o GitHub foi o escolhido para isso.
-
-Em 2017, depois de tantas conquistas (empregos, conhecimento e networking) e elogios (por parte do TechLead do GitHub), nos tornamos a **comunidade oficial do evento InterCon do iMasters**.
 
 ## Vantagens do GitHub
 
@@ -150,9 +146,6 @@ Você pode receber atualizações do Fórum no seu email ou via notificações d
   <img src="http://s31.postimg.org/nt5f6bbff/watch_github_forum.png" alt="Watch GitHub repo"/>
 </p>
 
-## Extra
-
-No Slack [Frontend Brasil](http://frontendbrasil.slack.com/) tem o canal `#forum` que está integrado com o **GitHub**, desta forma, você sempre saberá quando alguém postou uma nova **issue**.
 
 **Entre e participe!**
 
@@ -165,20 +158,3 @@ Badge | Link | Participar
 <p align="center">
   <a href="http://bit.ly/dne-custom-frontendbr"><img src="https://user-images.githubusercontent.com/3299130/43040168-26d560aa-8d13-11e8-9cea-765a07f2b7b0.png" alt="Logo do DevNaEstrada" width="240" /></a>
 </p>
-
-
-## Licença
-
-[MIT](LICENSE) &copy; FrontendBR
-
-## Repositórios da Front-End Brasil
-
-- [Fórum](https://github.com/frontendbr/forum)
-- [Eventos](https://github.com/frontendbr/eventos)
-- [Vagas](https://github.com/frontendbr/vagas)
-- [Me Contrata](https://github.com/frontendbr/me-contrata)
-- [Compra e Venda](https://github.com/frontendbr/compra-e-venda)
-- [Doe um Livro](https://github.com/frontendbr/doe-um-livro)
-- [Poste Mais!](https://github.com/frontendbr/poste-mais)
-- [Open Source](https://github.com/frontendbr/open-source)
-- [Sugestões](https://github.com/frontendbr/sugestoes)
