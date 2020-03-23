@@ -15,7 +15,7 @@ _____
 _____
 ## Propósito
 
-O projeto foi criado para usar a tecnologia e aproveitar de seus recursos, assim amenizando as consequencias da pandemia.
+Auxiliar no combate a pandemia, reduzindo o número de infecções.
 
 ## Objetivos
 
